@@ -1,5 +1,5 @@
 # Hello-World
-My first Repository - is new.
+My first Repository.
 
 -- Adding new comment about the Moon.
 -- Line for deletion.
